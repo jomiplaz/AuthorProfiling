@@ -24,4 +24,4 @@ The decisions taken and the different alternatives evaluated are explained step 
  - **Submission1.ipynb:** Script used to make the submission 1.
  - **stopwordslist.txt:** Complementary StopWords list used.
  - **testVariables.pickle:** Pickle file with the test variables readed in the python script.
- - **trainVariables.pickle:** Pickle file with the traint variables readed in the python script.
+ - **trainVariables.pickle:** Pickle file with the train variables readed in the python script.
